@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="S1_StreamsTest">
+      <class name="C22_Download_Upload">
         <methods>
-          <include name="Test5"/>
+          <include name="Test1"/>
         </methods>
-      </class> <!-- S1_StreamsTest -->
+      </class> <!-- C22_Download_Upload -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
