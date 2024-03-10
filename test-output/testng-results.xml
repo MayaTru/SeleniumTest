@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-08T23:59:06 IST" name="Default suite" finished-at="2024-03-08T23:59:37 IST" duration-ms="30844">
+  <suite started-at="2024-03-10T16:46:56 IST" name="Default suite" finished-at="2024-03-10T16:47:25 IST" duration-ms="29264">
     <groups>
     </groups>
-    <test started-at="2024-03-08T23:59:06 IST" name="Default test" finished-at="2024-03-08T23:59:37 IST" duration-ms="30844">
-      <class name="C22_Download_Upload">
-        <test-method signature="Test1()[pri:0, instance:C22_Download_Upload@54e1c68b]" started-at="2024-03-08T23:59:07 IST" name="Test1" finished-at="2024-03-08T23:59:37 IST" duration-ms="30755" status="PASS">
+    <test started-at="2024-03-10T16:46:56 IST" name="Default test" finished-at="2024-03-10T16:47:25 IST" duration-ms="29264">
+      <class name="C24_AutoIT_FileUpload">
+        <test-method signature="Test1()[pri:0, instance:C24_AutoIT_FileUpload@48aca48b]" started-at="2024-03-10T16:46:56 IST" name="Test1" finished-at="2024-03-10T16:47:25 IST" duration-ms="29120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-      </class> <!-- C22_Download_Upload -->
+      </class> <!-- C24_AutoIT_FileUpload -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
